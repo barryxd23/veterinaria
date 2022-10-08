@@ -1,8 +1,8 @@
 var imagenes = new Array(
-    "../imgs/img1.jpg",
-    "../imgs/img2.jpg",
-    "../imgs/img3.jpg",
-    "../imgs/img4.jpg"
+    "./imgs/img1.jpg",
+    "./imgs/img2.jpg",
+    "./imgs/img3.jpg",
+    "./imgs/img4.jpg"
 );
 
 var c = 0;
