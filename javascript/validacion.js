@@ -27,7 +27,15 @@ function validar() {
     return;
   }
 
-  alert("Has ingresado correctamente");
+  alert("Se a enviado correctamente los datos");
 }
 
 document.getElementById("btnenviar").setAttribute("onclick", "validar()");
+
+
+
+
+
+
+
+
